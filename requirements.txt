@@ -1,6 +1,4 @@
-aiogram==3.*
-python-dotenv
-# requirements.txt
+
 aiofiles==24.1.0
 aiogram==3.17.0
 aiohappyeyeballs==2.4.4
